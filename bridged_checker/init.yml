@@ -1,0 +1,8 @@
+checker:
+  name: bridged
+  args:
+    files: checker.c
+    lang: C
+    feedback: true
+test_cases:
+- points: 10
