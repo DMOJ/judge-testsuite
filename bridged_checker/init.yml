@@ -4,5 +4,6 @@ checker:
     files: checker.c
     lang: C
     feedback: true
+    type: testlib
 test_cases:
 - points: 10
