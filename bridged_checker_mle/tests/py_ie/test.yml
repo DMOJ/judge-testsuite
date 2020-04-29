@@ -1,0 +1,6 @@
+language: PY2
+time: 5
+memory: 65536
+source: ie.py
+expect: IE
+feedback: 'std::bad_alloc'
